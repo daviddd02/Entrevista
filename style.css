@@ -1,0 +1,27 @@
+body{
+    background-color: blanchedalmond;
+    display: flexbox;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: oblique;
+    color: violet;
+    text-align: center;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: oblique;
+    color: green;
+    text-align: center;
+}
+audio{
+    
+}
+img{
+    width: 190px;
+    margin-left: 250px;
+}
